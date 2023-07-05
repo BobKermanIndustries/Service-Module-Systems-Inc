@@ -7,4 +7,4 @@
 
  [**Thread on KSP Forums**](N/A)
 
- For further details regarding installation instructions, dependencies..., refer to the **README.txt** under the **GameData** subdirectory
+ For further details regarding installation instructions, dependencies..., refer to the [**README.txt**](GameData/README.txt) under the [**GameData**](GameData) subdirectory
